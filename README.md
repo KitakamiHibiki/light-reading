@@ -55,7 +55,7 @@ Nacos地址：`http://reading-cloud.zealon.cn:8848/nacos/`，账户密码同上
 核心架构图如下：
 
 ![](http://reading.zealon.cn/framework.png)
-![image](https://github.com/KitakamiHibiki/light-reading/edit/master/lightReading_image.webp)
+![image](https://github.com/KitakamiHibiki/light-reading/edit/master/lightReading_image.jpg)
 
 ### 系统模块
 
